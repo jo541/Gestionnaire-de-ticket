@@ -1,0 +1,33 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1522" measuredH="687" mockupW="1152" mockupH="648">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="370" y="39" w="1152" h="648" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Accueil%0Ahttp%3A//Gestick.fr/accueil</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Canvas" x="513" y="163" w="1000" h="497" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::ButtonBar" x="1068" y="113" w="454" h="50" measuredW="298" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Urgent%2C%20En%20attente%2C%20En%20cours%2C%20Resolus</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Canvas" x="370" y="110" w="1152" h="56" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::ComboBox" x="385" y="126" w="-1" h="-1" measuredW="94" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>UserName</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Accordion" x="370" y="163" w="149" h="167" measuredW="150" measuredH="240" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <text>Vos%20Tickets%0A-%20Urgents%0A-%20En%20attent%0A-%20En%20cours%0A-%20R%E9soluts%0AAgenda</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Paragraph" x="542" y="191" w="956" h="454" measuredW="200" measuredH="80" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Illa%20ad%20et%20amicitia%20atque%20esse%20et%20haudquaquam%20atque%20in%20%0Acondimentum%20liberior%20amicitia%20habet%20Tristitia%20comitatem%20condimentum%20%0Aet%20proclivior%20et%20comitatem%20suavitas%20oportet%20severitas%20atque%20et%20severitas%20%0Aet%20debet%20habet%20amicitia%20re%20Tristitia%20et%20atque%20amicitia%20atque%20proclivior%20autem%20%0Aremissior%20in%20re%20haudquaquam%20severitas%20comitatem%20facilitatemque%20debet%20et%20et%20re%20morum%20%0Ailla%20liberior%20comitatem%20omnem%20illa%20debet%20mediocre%20amicitiae%20omnem%20%0Aautem%20comitatem%20condimentum%20oportet%20suavitas%20amicitiae%20et%20morum%20%0Adulcior%20atque%20illa%20quaedam%20quidem%20facilitatemque%20omni%20sed%20in%20in%20re%20habet%20%0Ailla%20liberior%20Tristitia%20morum%20mediocre%20sed%20omni%20esse%20et%20Tristitia%20sed%20proclivior%0Aomni%20severitas%20proclivior%20huc%20Tristitia%20in%20ad%20et.Illa%20ad%20et%20amicitia%20atque%20esse%20et%20haudquaquam%20atque%20in%20%0Acondimentum%20liberior%20amicitia%20habet%20Tristitia%20comitatem%20condimentum%20%0Aet%20proclivior%20et%20comitatem%20suavitas%20oportet%20severitas%20atque%20et%20severitas%20%0Aet%20debet%20habet%20amicitia%20re%20Tristitia%20et%20atque%20amicitia%20atque%20proclivior%20autem%20%0Aremissior%20in%20re%20haudquaquam%20severitas%20comitatem%20facilitatemque%20debet%20et%20et%20re%20morum%20%0Ailla%20liberior%20comitatem%20omnem%20illa%20debet%20mediocre%20amicitiae%20omnem%20%0Aautem%20comitatem%20condimentum%20oportet%20suavitas%20amicitiae%20et%20morum%20%0Adulcior%20atque%20illa%20quaedam%20quidem%20facilitatemque%20omni%20sed%20in%20in%20re%20habet%20%0Ailla%20liberior%20Tristitia%20morum%20mediocre%20sed%20omni%20esse%20et%20Tristitia%20sed%20proclivior%0Aomni%20severitas%20proclivior%20huc%20Tristitia%20in%20ad%20et.Illa%20ad%20et%20amicitia%20atque%20esse%20et%20haudquaquam%20atque%20in%20%0Acondimentum%20liberior%20amicitia%20habet%20Tristitia%20comitatem%20condimentum%20%0Aet%20proclivior%20et%20comitatem%20suavitas%20oportet%20severitas%20atque%20et%20severitas%20%0Aet%20debet%20habet%20amicitia%20re%20Tristitia%20et%20atque%20amicitia%20atque%20proclivior%20autem%20%0Aremissior%20in%20re%20haudquaquam%20severitas%20comitatem%20facilitatemque%20debet%20et%20et%20re%20morum%20%0Ailla%20liberior%20comitatem%20omnem%20illa%20debet%20mediocre%20amicitiae%20omnem%20%0Aautem%20comitatem%20condimentum%20oportet%20suavitas%20amicitiae%20et%20morum%20%0Adulcior%20atque%20illa%20quaedam%20quidem%20facilitatemque%20omni%20sed%20in%20in%20re%20habet%20%0Ailla%20liberior%20Tristitia%20morum%20mediocre%20sed%20omni%20esse%20et%20Tristitia%20sed%20proclivior%0Aomni%20severitas%20proclivior%20huc%20Tristitia%20in%20ad%20et.</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
