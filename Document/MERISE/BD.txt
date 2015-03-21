@@ -1,8 +1,0 @@
-UTILISATEUR (Id, Nom, Mdp)
-DF (Spécialité, Id)
-DF (Nom, Id)
-DF (NiveauDeDroit, Id)
-CLIENT (Nom, Société)
-TICKET (NumTicket, Description, DateDebut, DateDeFin, DateAttribution, Attibuteur, Attribué, Nom, Spécialité)
-GERER (NumTicket, NiveauDeDroit)
-MESSAGE (Id, Text, NumTicket)
